@@ -1,0 +1,21 @@
+.editorr{
+    /* background: black; */
+    width: 100%;   
+    height: 100vh;
+}
+.{
+    background: f9fbfd;
+}
+.ql-toolbar{
+    background: rgb(197, 196, 196);
+    border-radius: 50px;
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+}
+.ql-container{
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+
+}

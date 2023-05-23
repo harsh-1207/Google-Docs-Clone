@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Bree+Serif&family=Roboto&display=swap');
+.upper{
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.icon{
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    height: 48px;
+    width: 2.3%;
+}
+
+.imgg{
+    height: 34px;
+    width: 34px;
+    padding-left: 10px;
+    padding-top: 8px;
+    margin-right: 5px;
+}
+
+.ql-toolbar{
+    background: #edf2fa;
+}
+
+.doc{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.docName{
+    margin-top: 2px;
+    height: 50%;
+    font-size: 1.1rem;
+    padding-left: 10px;
+    /* color: gray; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.options{
+    height: 50%;
+}
+
+.right{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    /* padding-left: 8%; */
+    /* padding-right: 0; */
+    /* flex-direction: row; */
+    /* align-items: right; */
+    /* background: red; */
+}
+
+.comment{
+    /* background: gray; */
+    padding-left: 50%;
+    padding-right: 5%;
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cmnt{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background: none;
+}
+.cmnt:hover{
+    background: #e8ebee;
+}
+.cImg{
+    height: 25px;
+    width: 25px;
+}
+.share{
+    width: 25%;
+    height: 100%;
+    /* background: purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 5%;
+}
+.sImg{
+    height: 30px;
+}
+.gmail{
+    width: 10%;
+    height: 100%;
+    /* background: gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gImg{
+    height: 36px;
+    width: 36px;
+}
+
+.btn{
+    border: none;
+    background: none;
+    font-size: 15px;
+    height: 60%;
+    margin-left: 14px;
+    margin-top: 6px;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
